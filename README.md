@@ -1,6 +1,6 @@
 # Build With AWS - PartyRock Hackathon Project
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/shusritavenugopal/Downloads/883BDA7E-67B8-42CC-A353-94699285F166-JPG.webp?version%3D1719261414105)
+![883BDA7E-67B8-42CC-A353-94699285F166-JPG](https://github.com/shusritavenugopal/Build-With-AWS/assets/63789652/73c8a3c9-4ee5-4bf0-a399-6796ebf376cf)
 
 With over 200 AWS services available, finding the right services can be tough. Build With AWS promotes AWS cloud by analyzing your project requirements and recommending the most suitable AWS services.
 
