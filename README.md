@@ -6,7 +6,7 @@ With over 200 AWS services available, finding the right services can be tough. B
 
 [Project Featured on AWS Vice President & Chief Evangelist LinkedIn](https://www.linkedin.com/posts/jeffbarr_aws-activity-7184227585332068353-Ni01?utm_source=share&utm_medium=member_desktop)
 
-[Project Featured on AWS Q head](https://www.linkedin.com/posts/themza_exploring-partyrock-app-development-with-activity-7183927823793840128-bpKt?utm_source=share&utm_medium=member_desktop)
+[Project Featured on AWS Q VP LinkedIn](https://www.linkedin.com/posts/themza_exploring-partyrock-app-development-with-activity-7183927823793840128-bpKt?utm_source=share&utm_medium=member_desktop)
 
 [PartyRock App](https://community.aws/content/2etY00T8tlf3NHsQxnDSSjmXjHH/exploring-partyrock-app-development-with-amazon-bedrock)
 
