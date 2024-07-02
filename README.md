@@ -1,4 +1,4 @@
-# Build With AWS - [PartyRock Hackathon Project Link](https://community.aws/content/2etY00T8tlf3NHsQxnDSSjmXjHH/exploring-partyrock-app-development-with-amazon-bedrock)
+# Build With AWS - [PartyRock Hackathon Project Link](https://partyrock.aws/u/shusrita/MJ-8wHfGU/Build-With-AWS)(https://community.aws/content/2etY00T8tlf3NHsQxnDSSjmXjHH/exploring-partyrock-app-development-with-amazon-bedrock)
 
 ![883BDA7E-67B8-42CC-A353-94699285F166-JPG](https://github.com/shusritavenugopal/Build-With-AWS/assets/63789652/73c8a3c9-4ee5-4bf0-a399-6796ebf376cf)
 
@@ -8,7 +8,7 @@ With over 200 AWS services available, finding the right services can be tough. B
 
 [Project Featured on AWS Q VP LinkedIn](https://www.linkedin.com/posts/themza_exploring-partyrock-app-development-with-activity-7183927823793840128-bpKt?utm_source=share&utm_medium=member_desktop)
 
-[PartyRock App](https://community.aws/content/2etY00T8tlf3NHsQxnDSSjmXjHH/exploring-partyrock-app-development-with-amazon-bedrock)
+[PartyRock App](https://partyrock.aws/u/shusrita/MJ-8wHfGU/Build-With-AWS)
 
 [AWS Community Blog - Coding perspective of PartyRock App](https://community.aws/content/2etY00T8tlf3NHsQxnDSSjmXjHH)
 
